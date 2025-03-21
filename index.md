@@ -6,3 +6,9 @@ var name = "Denny"
 var surname "H"
 var age = 3X
 ```
+# Todo!
+- [x] header
+- [x] image
+- [x] code
+- [x] task list
+- [ ] not sure what's next
